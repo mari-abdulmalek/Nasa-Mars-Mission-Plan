@@ -9,5 +9,3 @@ These systems would need to support the spacecraft throughout the long journey a
 
 Communication systems would allow the spacecraft and astronauts to send information back to Earth.
 Because Mars is far from Earth, messages can take several minutes to arrive, so reliable communication technology would be important for the mission.
-
-\
